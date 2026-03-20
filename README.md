@@ -2,6 +2,7 @@
 
 **Candidate Name:** Meghashyam Shenoy
 **Scenario Chosen:** Skill-Bridge Career Navigator
+**video link**:https://youtu.be/BeFVxanliqc
 **Estimated Time Spent:** ~12 hours
 
 ---
@@ -89,7 +90,7 @@ Cut "extra" features outside the required core flow (like richer frontend stream
 
 2. **Broader test coverage + CI pipeline** — Right now tests cover the mentee CRUD layer. I'd extend coverage to the AI endpoints using mocked Gemini responses — testing prompt formatting, response parsing, and edge cases like empty or malformed model output. Then wire it all into a GitHub Actions CI pipeline so every push is validated automatically.
 
-3. **Explainability panel** — The roadmap output currently feels like a black box. I'd add a side panel that shows exactly which skills were extracted from the mentee's profile, which ones were flagged as gaps, and which specific CSV rows were used to generate each roadmap recommendation. This makes the AI's reasoning transparent and gives mentors a way to verify or override suggestions — which matters a lot in a mentorship context where trust is everything.
+
 
 ---
 
