@@ -119,7 +119,7 @@ All data files shipped in this repository are **fully synthetic** — no scrapin
 | How the app uses it | After gap analysis, the backend filters rows where `skill` matches any missing skill, then returns the filtered set as the mentee's personalised roadmap |
 | Data origin | Synthetically curated — no third-party scraping |
 
-### Mentee seed data *(if applicable)*
+### Mentee seed data 
 
 Any sample mentee JSON or CSV shipped in the repository contains entirely fictional profiles (randomly generated names, roles, and skill sets). This data is used only to demonstrate the CRUD flow and pre-populate the UI for reviewers — it contains no real personal information.
 
