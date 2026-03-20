@@ -2,6 +2,7 @@
 
 **Candidate Name:** Meghashyam Shenoy
 **Scenario Chosen:** Skill-Bridge Career Navigator
+
 **video link**:https://youtu.be/BeFVxanliqc
 **Estimated Time Spent:** ~12 hours
 
