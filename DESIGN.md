@@ -38,6 +38,7 @@ Streamlit UI
       ├─► renders skill gap dashboard
       └─► renders mock interview + career guidance panel
 ```
+<img width="1336" height="1022" alt="image" src="https://github.com/user-attachments/assets/f223f77d-f064-4ddc-a281-53b658c7e1c9" />
 
 **Step-by-step flow:**
 
